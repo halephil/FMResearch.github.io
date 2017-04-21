@@ -2,11 +2,11 @@
 import mysql.connector
 from mysql.connector import Error
 
+tableName = 'ny_markets.counties'
 
 
 class dbController(object):    
 
-    tableName = 'ny_markets.markets'
     databaseName = 'ny_markets'
     
     def connect(self):
@@ -14,18 +14,29 @@ class dbController(object):
         try:
             if self.DBconnection.is_connected():
                 print('Connected to {} database'.format(self.databaseName))
- #               self.loadData()
+                self.loadData()
 
         except Error as e:
             print(e)
     ##########################################
 
-    def setTable(self):
-        return 
+    def printTest(self):
+        query = ('SELECT county \
+                    FROM counties')
+        self.crs.execute(query)
 
-    def deleteTable(self):
+        i = 1
+        sep = ' '
+        for line in self.crs:
+            if i > 3:
+                break
+            i = i + 1
+            string = line[0].split(sep,1)[0]
+            print(string) 
+
+    def clearTable(self):
         try:
-            add_market = ("DELETE FROM ny_markets.markets")
+            add_market = ("DELETE FROM {}".format(tableName))
             self.crs.execute(add_market)
             self.DBconnection.commit()
             print("Table Deleted")
@@ -35,15 +46,32 @@ class dbController(object):
 
     ##############################################
     def loadData(self):
-        with open("NY_Farmers_Market.csv", "rb") as f:
+        with open("NY_Geographics.csv", "rb") as f:
             reader = csv.reader(f)
             next(f)
-            marketID = 0
+            next(f)
             for line in enumerate(reader):
-                add_market = ("INSERT INTO {} VALUES ('{}','{}','{}','{}','{}','{}','{}','{}','{}','{}','{}','{}','{}','{}','{}','{}','{}','{}','{}','{}','{}')".format(tableName,marketID,line[1][0].replace("'",""),line[1][1].replace("-"," ").replace("'",""),line[1][2].replace("'",""),line[1][3].replace("'",""),line[1][4],line[1][5],line[1][6],line[1][7],line[1][8],line[1][9],line[1][10],line[1][11],line[1][12],line[1][13],line[1][14],line[1][15],line[1][16],line[1][17],line[1][18],line[1][19]))
-                marketID = marketID + 1
+                add_market = ("INSERT INTO {} VALUES ('{}','{}','{}','{}','{}','{}','{}','{}','{}','{}','{}','{}','{}','{}')".format(tableName,line[1][0],line[1][1],line[1][2],line[1][3],line[1][4],line[1][5],line[1][6],line[1][7],line[1][8],line[1][9],line[1][10],line[1][11],line[1][12],line[1][13]))
+
                 self.crs.execute(add_market)
                 self.DBconnection.commit()
+
+    def updateData(self):
+        #Function removes extra string values
+        
+        selectQuery = ('SELECT county FROM counties')
+        self.crs.execute(selectQuery)
+        
+        i = 1
+        sep = ' '
+        for line in self.crs:
+            string = line[0].split(sep,1)[0]
+            updateQuery = ('UPDATE counties SET county = {} WHERE county = {}'.format(string, line[0]))
+            #print(updateQuery)
+            self.crs.execute(updateQuery)
+        self.DBconenection.commit()
+            #print(string)
+        
         
 
     ##############################################
@@ -73,4 +101,7 @@ class dbController(object):
 if __name__ == '__main__':
     dbClass = dbController()
     #dbClass.createDB()
-    dbClass.connect()
+    #dbClass.connect()
+    #dbClass.clearTable()
+    #dbClass.printTest()
+    dbClass.updateData()
