@@ -10,6 +10,7 @@ Welcome to Farmers Markets populations research, for New York State. Above you w
 that are located all accross the state. The more red the map is the more markets are located within that area. In total, there are 761 markets and 62 counties in the state of New York. The goal of this research page it to determine the best location to relocate you farmers markets if the current city you are in is overpopulated.
 
 **Top 10 Counties with Most and Least Number of Markets**
+
 | County      | # of Markets |   | County   | # of Markets |
 |-------------|--------------|---|----------|--------------|
 | Monroe      | 85           |   | Seneca   | 1            |
@@ -32,6 +33,7 @@ Above is table that demonstrates the counties with the most amount of markets(le
 A county is to be considered underrpopulated if the ratio of markets to county populated in high. The table below demonstrates counties that anywhere from 35,00 to 234,00 per market. Almost 5x as many people as markets that many be over populated; which will be explained below.
 
 **Underpopulated Counties**
+
 | County      | # of Markets |   | County   | # of Markets |
 |-------------|--------------|---|----------|--------------|
 | Monroe      | 85           |   | Seneca   | 1            |
