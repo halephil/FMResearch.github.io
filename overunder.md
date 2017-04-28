@@ -30,7 +30,7 @@ Above is table that demonstrates the counties with the most amount of markets(le
 
 ## Underpopulated Counties
 
-A county is to be considered underrpopulated if the ratio of markets to county populated in high. The table below demonstrates counties that anywhere from 35,00 to 234,00 per market. Almost 5x as many people as markets that many be over populated; which will be explained below.
+A county is to be considered underrpopulated if the ratio of markets to county populated in high. The table below demonstrates counties that ranger anywhere from 35,00 to 234,00 people per market. Almost 5x as many people as markets that many be over populated; which will be explained below.
 
 **Underpopulated Counties**
 
