@@ -34,18 +34,18 @@ A county is to be considered underpopulated if the ratio of persons per market i
 
 **Underpopulated Counties**
 
-|    County   | # of Markets | Population | People per Market |
-|:-----------:|:------------:|:----------:|:-----------------:|
-|   Richmond  |       2      |   468,730  |      234,365      |
-|    Queens   |      23      |  2,230,722 |       96,987      |
-|    Nassau   |      17      |  1,339,532 |       78,796      |
-|   Suffolk   |      24      |  1,493,350 |       62,222      |
-|    Kings    |      46      |  2,504,700 |       54,450      |
-|    Bronx    |      26      |  1,385,108 |       53,273      |
-|   Onondage  |       9      |   467,026  |       51,891      |
-|   New York  |      44      |  1,585,873 |       36,042      |
-|    Seneca   |       1      |   35,251   |       35,251      |
-| Westchester |      27      |   949,113  |       35,152      |
+|    County   | # of Markets | Population | People per Market |   | County       | Sqr Miles | # of Markets | Sqr Miles per Market |
+|:-----------:|:------------:|:----------:|:-----------------:|---|--------------|-----------|--------------|----------------------|
+|   Richmond  |       2      |   468,730  |      234,365      |   | Hamilton     | 1808      | 2            | 904                  |
+|    Queens   |      23      |  2,230,722 |       96,987      |   | Seneca       | 390       | 1            | 390                  |
+|    Nassau   |      17      |  1,339,532 |       78,796      |   | Lewis        | 1290      | 4            | 322.5                |
+|   Suffolk   |      24      |  1,493,350 |       62,222      |   | St. Lawrence | 2821      | 10           | 282.1                |
+|    Kings    |      46      |  2,504,700 |       54,450      |   | Oswegi       | 1312      | 5            | 262.4                |
+|    Bronx    |      26      |  1,385,108 |       53,273      |   | Otsego       | 1016      | 4            | 254                  |
+|   Onondage  |       9      |   467,026  |       51,891      |   | Essex        | 1916      | 8            | 239.5                |
+|   New York  |      44      |  1,585,873 |       36,042      |   | Cayuga       | 864       | 4            | 216                  |
+|    Seneca   |       1      |   35,251   |       35,251      |   | Wyoming      | 596       | 3            | 198.7                |
+| Westchester |      27      |   949,113  |       35,152      |   | Franklin     | 1697      | 9            | 188.6                |
 
 # Richmond County
 Located on the top of the list is Richmond County. With nearly half a million people and only two farmers markets, it would seem to be the ideal relocation spot. Reasons are inclear to why markets are not branching to Staten Island, but your hotspot if Southern New York.
