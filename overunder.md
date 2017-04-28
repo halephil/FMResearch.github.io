@@ -30,7 +30,7 @@ Above is table that demonstrates the counties with the most amount of markets(le
 
 # Underpopulated Counties
 
-A county is to be considered underpopulated if the ratio of persons per market is high and square miles per market is also high. The table below demonstrates the top 10 counties ordered by highest number of people per market.
+A county is to be considered underpopulated if the ratio of persons per market is high and square miles per market is also high. The table below demonstrates the top 10 underpopulated counties ordered by highest number of people per market.
 
 **Underpopulated Counties**
 
