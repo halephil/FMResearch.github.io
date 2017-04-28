@@ -12,7 +12,7 @@ that are located all accross the state. The more red the map is the more markets
 **Top 10 Counties with Most and Least Number of Markets**
 
 | County      | # of Markets |   | County   | # of Markets |
-|:-----------:|:------------:|   |:--------:|:------------:|
+|:-----------:|:------------:|---|:--------:|:------------:|
 | Monroe      | 85           |   | Seneca   | 1            |
 | Kings       | 46           |   | Hamilton | 2            |
 | New York    | 44           |   | Richmond | 3            |
