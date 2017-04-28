@@ -12,7 +12,7 @@ that are located all accross the state. The more red the map is the more markets
 **Top 10 Counties with Most and Least Number of Markets**
 
 | County      | # of Markets |   | County   | # of Markets |
-|-------------|--------------|---|----------|--------------|
+|:-----------:|:------------:|   |:--------:|:------------:|
 | Monroe      | 85           |   | Seneca   | 1            |
 | Kings       | 46           |   | Hamilton | 2            |
 | New York    | 44           |   | Richmond | 3            |
@@ -34,15 +34,15 @@ A county is to be considered underrpopulated if the ratio of markets to county p
 
 **Underpopulated Counties**
 
-| County      | # of Markets |   | County   | # of Markets |
-|-------------|--------------|---|----------|--------------|
-| Monroe      | 85           |   | Seneca   | 1            |
-| Kings       | 46           |   | Hamilton | 2            |
-| New York    | 44           |   | Richmond | 3            |
-| Albany      | 31           |   | Wyoming  | 3            |
-| Erie        | 31           |   | Fulton   | 3            |
-| Westchester | 27           |   | Schuyler | 3            |
-| Bronx       | 26           |   | Chemung  | 4            |
-| Suffolk     | 24           |   | Greene   | 4            |
-| Queens      | 23           |   | Lewis    | 4            |
-| Rensselaer  | 21           |   | Yates    | 4            |
+|    County   | # of Markets | Population | People per Market |
+|:-----------:|:------------:|:----------:|:-----------------:|
+|   Richmond  |       2      |   468,730  |      234,365      |
+|    Queens   |      23      |  2,230,722 |       96,987      |
+|    Nassau   |      17      |  1,339,532 |       78,796      |
+|   Suffolk   |      24      |  1,493,350 |       62,222      |
+|    Kings    |      46      |  2,504,700 |       54,450      |
+|    Bronx    |      26      |  1,385,108 |       53,273      |
+|   Onondage  |       9      |   467,026  |       51,891      |
+|   New York  |      44      |  1,585,873 |       36,042      |
+|    Seneca   |       1      |   35,251   |       35,251      |
+| Westchester |      27      |   949,113  |       35,152      |
