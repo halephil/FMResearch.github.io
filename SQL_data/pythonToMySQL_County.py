@@ -14,6 +14,7 @@ class dbController(object):
         try:
             if self.DBconnection.is_connected():
                 print('Connected to {} database'.format(self.databaseName))
+                self.clearTable()
                 self.loadData()
 
         except Error as e:
@@ -50,27 +51,15 @@ class dbController(object):
             reader = csv.reader(f)
             next(f)
             next(f)
+            next(f)
+            sep = ' County'
             for line in enumerate(reader):
-                add_market = ("INSERT INTO {} VALUES ('{}','{}','{}','{}','{}','{}','{}','{}','{}','{}','{}','{}','{}','{}')".format(tableName,line[1][0],line[1][1],line[1][2],line[1][3],line[1][4],line[1][5],line[1][6],line[1][7],line[1][8],line[1][9],line[1][10],line[1][11],line[1][12],line[1][13]))
+                print(line[1][6])
+                string = line[1][6].split(sep,1)[0]
+                add_market = ("INSERT INTO {} VALUES ('{}','{}','{}','{}','{}','{}','{}','{}','{}','{}','{}','{}','{}','{}')".format(tableName,line[1][0],line[1][1],line[1][2],line[1][3],line[1][4],line[1][5],string,line[1][7],line[1][8],line[1][9],line[1][10],line[1][11],line[1][12],line[1][13]))
 
                 self.crs.execute(add_market)
                 self.DBconnection.commit()
-
-    def updateData(self):
-        #Function removes extra string values
-        
-        selectQuery = ('SELECT county FROM counties')
-        self.crs.execute(selectQuery)
-        
-        i = 1
-        sep = ' '
-        for line in self.crs:
-            string = line[0].split(sep,1)[0]
-            updateQuery = ('UPDATE counties SET county = {} WHERE county = {}'.format(string, line[0]))
-            #print(updateQuery)
-            self.crs.execute(updateQuery)
-        self.DBconenection.commit()
-            #print(string)
         
         
 
@@ -101,7 +90,6 @@ class dbController(object):
 if __name__ == '__main__':
     dbClass = dbController()
     #dbClass.createDB()
-    #dbClass.connect()
+    dbClass.connect()
     #dbClass.clearTable()
     #dbClass.printTest()
-    dbClass.updateData()

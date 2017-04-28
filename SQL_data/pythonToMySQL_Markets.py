@@ -12,7 +12,7 @@ class dbController(object):
         try:
             if self.DBconnection.is_connected():
                 print('Connected to {} database'.format(self.databaseName))
-                self.loadData()
+                #self.loadData()
 
         except Error as e:
             print(e)
