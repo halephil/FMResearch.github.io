@@ -6,5 +6,24 @@ subtitle: Discover counties that have too many farmers markets!
 
 <img src="../SQL_data/Maps/HeatMap.png" style="width:100%;" alt="Heat Map"/>
 
-Welcomes to Farmers Markets populations research, for New York State. Above you will notice a heat map of all the farmers markets
-that are located all accross the state. The more the map is the more markets are located within that area. 
+Welcome to Farmers Markets populations research, for New York State. Above you will notice a heat map of all the farmers markets
+that are located all accross the state. The more red the map is the more markets are located within that area. In total, there are 761 markets and 62 counties in the state of New York. The goal of this research page it to determine the best location to relocate you farmers markets if the current city you are in is overpopulated.
+
+**Top 10 Counties with Most and Least Number of Markets**
+
+| County      | # of Markets |   | County   | # of Markets |
+|-------------|--------------|---|----------|--------------|
+| Monroe      | 85           |   | Seneca   | 1            |
+| Kings       | 46           |   | Hamilton | 2            |
+| New York    | 44           |   | Richmond | 3            |
+| Albany      | 31           |   | Wyoming  | 3            |
+| Erie        | 31           |   | Fulton   | 3            |
+| Westchester | 27           |   | Schuyler | 3            |
+| Bronx       | 26           |   | Chemung  | 4            |
+| Suffolk     | 24           |   | Greene   | 4            |
+| Queens      | 23           |   | Lewis    | 4            |
+| Rensselaer  | 21           |   | Yates    | 4            |
+
+Above is table that demonstrates the counties with the most amount of markets(left 2 columns) and least amount of markets(right 2 columns). To see this more clearly, below is a map with red markers labeling counties with the most amount of markets and bluew markers labeling counties with the least amount of markets. 
+
+<img src="../SQL_data/Maps/TopTenMap.png" style="width:100%;" alt="Top Tens">
