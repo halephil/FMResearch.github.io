@@ -27,7 +27,7 @@ that are located all accross the state. The more red the map is the more markets
 Above is table that demonstrates the counties with the most amount of markets(left 2 columns) and least amount of markets(right 2 columns). To see this more clearly, below is a map with red markers labeling counties with the most amount of markets and bluew markers labeling counties with the least amount of markets. 
 
 <img src="../SQL_data/Maps/TopTens.png" style="width:100%;" alt="Top Tens">
-___
+
 # Underpopulated Counties
 
 A county is to be considered underpopulated if the ratio of persons per market is high and square miles per market is also high. The table below demonstrates the top 10 counties ordered by highest number of people per market.
