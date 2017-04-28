@@ -28,7 +28,7 @@ Above is table that demonstrates the counties with the most amount of markets(le
 
 <img src="../SQL_data/Maps/TopTens.png" style="width:100%;" alt="Top Tens">
 
-### Underpopulated Counties
+# Underpopulated Counties
 
 A county is to be considered underpopulated if the ratio of persons per market is high and square miles per market is also high. The table below demonstrates the top 10 counties ordered by highest number of people per market.
 
@@ -47,11 +47,11 @@ A county is to be considered underpopulated if the ratio of persons per market i
 |    Seneca   |       1      |   35,251   |       35,251      | 390                  |
 | Westchester |      27      |   949,113  |       35,152      | 18.5                 |
 
-# Richmond County
+## Richmond County
 Located on the top of the list is Richmond County. With nearly half a million people and only two farmers markets, it would seem to be the ideal relocation spot. Reasons are inclear to why markets are not branching to Staten Island, but your hotspot is Southern New York. Althought the sqr miles per market is not as impressive as others, the people per market makes up for that asspect.
-# Suffolk County
+## Suffolk County
 Base off both requires Suffolk County would be second best location to relocate. It has the second best sqr miles per market and fourth best people per markets. The cost of living is this county is reasonably high, so if possible, I would highly consider locating your market in Suffolk
-# Seneca County
+## Seneca County
 Moving more inland, making this a highly notable location, Senca County. Although ranked 9th in people per market column, it dominates in sqr miles per market catagory. Which allows farms to relocate to spots in Seneca County that tend to not have many local markets. A little ways away from the heart of New York, however the location could use a couple more markets.
 
-### Overpopulated Counties
+# Overpopulated Counties
