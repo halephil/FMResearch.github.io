@@ -28,9 +28,9 @@ Above is table that demonstrates the counties with the most amount of markets(le
 
 <img src="../SQL_data/Maps/TopTens.png" style="width:100%;" alt="Top Tens">
 
-## Underpopulated Counties
+### Underpopulated Counties
 
-A county is to be considered underrpopulated if the ratio of markets to county populated in high. The table below demonstrates counties that ranger anywhere from 35,00 to 234,00 people per market. Almost 5x as many people as markets that many be over populated; which will be explained below.
+A county is to be considered underpopulated if the ratio of persons per market is high and square miles per market is also high. The table below demonstrates the top 10 counties for each requirement for underpopulated counties.
 
 **Underpopulated Counties**
 
@@ -46,3 +46,8 @@ A county is to be considered underrpopulated if the ratio of markets to county p
 |   New York  |      44      |  1,585,873 |       36,042      |
 |    Seneca   |       1      |   35,251   |       35,251      |
 | Westchester |      27      |   949,113  |       35,152      |
+
+# Richmond County
+Located on the top of the list is Richmond County. With nearly half a million people and only two farmers markets, it would seem to be the ideal relocation spot. Reasons are inclear to why markets are not branching to Staten Island, but your hotspot if Southern New York.
+# Queens County
+Comming is second, with a large 100,00 person difference is Queens County. Located just accross the bay would be the next locate to look into. With the cost of living being more and also, 21 more markets than Richmond, the compition is higher but still the second best location.
