@@ -3,8 +3,6 @@ layout: page
 title: Over & Under Populated Counties 
 subtitle: Discover counties that have too many farmers markets!
 ---
-
-![heatMap]
 ![heatMap](../Maps/HeatMap.png "Heat Map")
 
 Welcomes to Farmers Markets populations research, for New York State. Above you will notice a heat map of all the farmers markets
