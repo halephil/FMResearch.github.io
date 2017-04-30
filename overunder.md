@@ -55,3 +55,18 @@ Base off both requires Suffolk County would be second best location to relocate.
 Moving more inland, making this a highly notable location, Senca County. Although ranked 9th in people per market column, it dominates in sqr miles per market catagory. Which allows farms to relocate to spots in Seneca County that tend to not have many local markets. A little ways away from the heart of New York, however the location could use a couple more markets.
 
 # Overpopulated Counties
+
+A county is to be considered overpopulated if the ratio of persons per market is low and square miles per market is also low. The table below demonstrates the top 10 overpopulated counties ordered by highest number of people per market.
+
+| County    | # of Markets | Population | People per Market | Sqr Miles per Market |
+|:---------:|:------------:|:----------:|:-----------------:|:--------------------:|
+| Hamilton  | 2            | 4836       | 2418              | 904                  |
+| Essex     | 8            | 39370      | 4921.3            | 239.5                |
+| Franklin  | 9            | 51599      | 5733.3            | 188.4                |
+| Delaware  | 8            | 47980      | 5997.5            | 183.4                |
+| Schuyler  | 3            | 18343      | 6114.3            | 114                  |
+| Orleans   | 7            | 42883      | 6126.1            | 116.7                |
+| Yates     | 4            | 25348      | 6337              | 94                   |
+| Schoharie | 5            | 32749      | 6549.8            | 125.2                |
+| Lewis     | 4            | 27087      | 6771.8            | 322.5                |
+| Herkimer  | 9            | 64519      | 7168.8            | 162                  |
