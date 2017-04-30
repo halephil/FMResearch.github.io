@@ -79,3 +79,7 @@ Coming in a close second is Franklin County. Although the 'People per Market' is
 
 ## Yates County
 Placed 7th on the list, Yates County, with only 4 markets is a county worth mentioning for one lucky market. With this county being very small, I only recommend one market with he least success to relocate. The 'People per Market' has only a 400 person difference from 7th to 4th nut alomst a 100 square milage difference. 
+
+# Conclusion
+
+The goal here is not to even out the ratio throughout the state of New York. Instead, we seek to help markets that may not be doing as well as others. Therefor with the top 10 tables shown above, if marked as 'underpopulated' you may be seeing new markets coming to your area. If marked as 'overpopulated' maybe seek other counties who could use a little more variety.
