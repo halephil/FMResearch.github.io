@@ -13,16 +13,16 @@ that are located all accross the state. The more red the map is the more markets
 
 | County      | # of Markets |   | County   | # of Markets |
 |:-----------:|:------------:|---|:--------:|:------------:|
-| Monroe      | 85           |   | Seneca   | 1            |
-| Kings       | 46           |   | Hamilton | 2            |
-| New York    | 44           |   | Richmond | 3            |
-| Albany      | 31           |   | Wyoming  | 3            |
-| Erie        | 31           |   | Fulton   | 3            |
-| Westchester | 27           |   | Schuyler | 3            |
-| Bronx       | 26           |   | Chemung  | 4            |
-| Suffolk     | 24           |   | Greene   | 4            |
-| Queens      | 23           |   | Lewis    | 4            |
-| Rensselaer  | 21           |   | Yates    | 4            |
+|[Monroe]     | 85           |   |[Seneca]  | 1            |
+|[Kings]      | 46           |   |[Hamilton]| 2            |
+|[New York]   | 44           |   |[Richmond]| 3            |
+|[Albany]     | 31           |   |[Wyoming] | 3            |
+|[Erie]       | 31           |   |[Fulton]  | 3            |
+|[Westchester]| 27           |   |[Schuyler]| 3            |
+|[Bronx]      | 26           |   | [Chemung]| 4            |
+|[Suffolk]    | 24           |   |[Greene]  | 4            |
+|[Queens]     | 23           |   |[Lewis]   | 4            |
+|[Rensselaer] | 21           |   |[Yates]   | 4            |
 
 Above is table that demonstrates the counties with the most amount of markets(left 2 columns) and least amount of markets(right 2 columns). To see this more clearly, below is a map with red markers labeling counties with the most amount of markets and bluew markers labeling counties with the least amount of markets. 
 
@@ -47,16 +47,7 @@ A county is to be considered underpopulated if the ratio of persons per market i
 |   [Seneca]  |       1      |   35,251   |       35,251      | 390                  |
 |[Westchester]|      27      |   949,113  |       35,152      | 18.5                 |
 
-[Richmond]: https://www.google.com/maps/place/Staten+Island,+NY/@41.283467,-74.027548,8.4z/data=!4m5!3m4!1s0x89c245ef79f4d4e7:0x50271f8534babc78!8m2!3d40.5795317!4d-74.1502007
-[Queens]: https://www.google.com/maps/place/Queens,+NY/@41.3933054,-74.3881935,8.16z/data=!4m5!3m4!1s0x89c24369470a592b:0x4109d18b6c5c7b05!8m2!3d40.7282239!4d-73.7948516
-[Nassau]: https://www.google.com/maps/place/Nassau+County,+NY/@41.3444867,-74.2426644,8z/data=!4m5!3m4!1s0x89c2b19dcb5e0ca1:0x1b248a99d3069e6a!8m2!3d40.6546145!4d-73.5594128
-[Suffolk]: https://www.google.com/maps/place/Suffolk+County,+NY/@41.8171784,-75.9207583,7.34z/data=!4m5!3m4!1s0x89e0ae80c89bf9d7:0x95c40c490d1d5f53!8m2!3d40.9848784!4d-72.6151169
-[Kings]: https://www.google.com/maps/place/Brooklyn,+NY/@41.2680459,-74.479275,8.3z/data=!4m5!3m4!1s0x89c24416947c2109:0x82765c7404007886!8m2!3d40.6781784!4d-73.9441579
-[Bronx]: https://www.google.com/maps/place/Bronx+County,+NY/@41.086677,-74.4074573,9.18z/data=!4m5!3m4!1s0x89c2e08bea1f4105:0xc9a6488c48b356c2!8m2!3d40.8370495!4d-73.8654295
-[Onondage]: https://www.google.com/maps/place/Onondaga+County,+NY/@42.90109,-76.8355984,7.26z/data=!4m5!3m4!1s0x89d9f4fe45a3ff35:0xb24aa2acf278b259!8m2!3d43.026819!4d-76.1783739
-[New York]: https://www.google.com/maps/place/New+York+County,+NY/@41.0652269,-74.1067182,9.03z/data=!4m5!3m4!1s0x89c2ed64fc3b013b:0xd813d2023b2ead16!8m2!3d40.7830603!4d-73.9712488
-[Seneca]: https://www.google.com/maps/place/Seneca+County,+NY/@42.7982513,-76.7517118,7.81z/data=!4m5!3m4!1s0x89d0bfcbf409766f:0xcd3d73bd901df123!8m2!3d42.7651891!4d-76.8720961
-[Westchester]: https://www.google.com/maps/place/Westchester+County,+NY/@41.7182918,-74.1540104,7.53z/data=!4m5!3m4!1s0x89c2c96a9d6b59af:0x370ed86222bddb89!8m2!3d41.1220194!4d-73.7948516
+
 
 ## Richmond County
 Located on the top of the list is Richmond County. With nearly half a million people and only two farmers markets, it would seem to be the ideal relocation spot. Reasons are inclear to why markets are not branching to Staten Island, but your hotspot is Southern New York. Althought the sqr miles per market is not as impressive as others, the people per market makes up for that asspect.
@@ -82,17 +73,6 @@ A county is to be considered overpopulated if the ratio of persons per market is
 |[Lewis]    | 4            | 27087      | 6771.8            | 322.5                |
 |[Herkimer] | 9            | 64519      | 7168.8            | 162                  |
 
-[Hamilton]: https://www.google.com/maps/place/Hamilton+County,+NY/@43.0152304,-75.6520657,7.3z/data=!4m5!3m4!1s0x89df17cb6a970eab:0x2d236705dcc7c72f!8m2!3d43.4764406!4d-74.4056612
-[Essex]: https://www.google.com/maps/place/Essex+County,+NY/@43.2160659,-75.541765,7.54z/data=!4m5!3m4!1s0x4ccb1bc35229d23d:0xc18b42628062b901!8m2!3d44.0107408!4d-73.9507728
-[Franklin]: https://www.google.com/maps/place/Franklin+County,+NY/@43.2170037,-75.6189279,7.3z/data=!4m5!3m4!1s0x4ccb9fcb580c5add:0xe9db12a83af25dc!8m2!3d44.5926135!4d-74.3387798
-[Delaware]: https://www.google.com/maps/place/Delaware+County,+NY/@42.6883681,-75.8229518,7.81z/data=!4m5!3m4!1s0x89d091e7bf3fa51d:0x34ca4327527d2f24!8m2!3d42.2452081!4d-74.8741045
-[Schuyler]: https://www.google.com/maps/place/Schuyler+County,+NY/@43.0451611,-76.1927426,7.7z/data=!4m5!3m4!1s0x89d0f48aae81dd3d:0x725a69d482a9961a!8m2!3d42.3796425!4d-76.8720961
-[Orleans]: https://www.google.com/maps/place/Orleans+County,+NY/@43.055253,-75.5561791,7.38z/data=!4m5!3m4!1s0x89d41105a0f5cb23:0xc14fea72db78047a!8m2!3d43.4088624!4d-78.2020387
-[Yates]: https://www.google.com/maps/place/Yates+County,+NY/@42.7865978,-76.3035679,7.58z/data=!4m5!3m4!1s0x89d0e330cc172577:0x454614735e61d96d!8m2!3d42.6430846!4d-77.1485163
-[Schoharie]: https://www.google.com/maps/place/Schoharie+County,+NY/@42.2766827,-75.8642091,7.49z/data=!4m5!3m4!1s0x89dc25aa468f12fd:0xeef5bee83b61bcab!8m2!3d42.6550335!4d-74.4994517
-[Lewis]: https://www.google.com/maps/place/Lewis+County,+NY/@42.7211827,-76.18459,7.29z/data=!4m5!3m4!1s0x89d89653cc41534f:0x9741799e3c907a52!8m2!3d43.840112!4d-75.4344727
-[Herkimer]: https://www.google.com/maps/place/Herkimer+County,+NY/@42.91111,-75.4780511,7.04z/data=!4m5!3m4!1s0x89dec0fb88b3e3c9:0x36203db10f9ca406!8m2!3d43.1630587!4d-74.8741045
-
 
 ## Essex County
 Though the table is ranked in order of 'People per Market', 'Sqr Miles per Market' plays a vary significant role. Thus making Essex positioned at number 1. Hamilton County, being located in a much more rural area, may not only need 2 farmers markets, and leaving the county with only 1 may not be the greatest of idea. Therfor if you are a market in Essex, there may be better opprotunity else where.
@@ -106,3 +86,35 @@ Placed 7th on the list, Yates County, with only 4 markets is a county worth ment
 # Conclusion
 
 The goal here is not to even out the ratio throughout the state of New York. Instead, we seek to help markets that may not be doing as well as others. Therefor with the top 10 tables shown above, if marked as 'underpopulated' you may be seeing new markets coming to your area. If marked as 'overpopulated' maybe seek other counties who could use a little more variety.
+
+[comment]: <> (Links to show counties on Google Maps)
+
+[Monroe]: https://www.google.com/maps/place/Monroe+County,+NY/@42.9121976,-75.3459101,7.22z/data=!4m5!3m4!1s0x89d6b08fd00f765d:0x7c66490d613aab7b!8m2!3d43.2841246!4d-77.7452081
+[Richmond]: https://www.google.com/maps/place/Staten+Island,+NY/@41.283467,-74.027548,8.4z/data=!4m5!3m4!1s0x89c245ef79f4d4e7:0x50271f8534babc78!8m2!3d40.5795317!4d-74.1502007
+[Queens]: https://www.google.com/maps/place/Queens,+NY/@41.3933054,-74.3881935,8.16z/data=!4m5!3m4!1s0x89c24369470a592b:0x4109d18b6c5c7b05!8m2!3d40.7282239!4d-73.7948516
+[Nassau]: https://www.google.com/maps/place/Nassau+County,+NY/@41.3444867,-74.2426644,8z/data=!4m5!3m4!1s0x89c2b19dcb5e0ca1:0x1b248a99d3069e6a!8m2!3d40.6546145!4d-73.5594128
+[Suffolk]: https://www.google.com/maps/place/Suffolk+County,+NY/@41.8171784,-75.9207583,7.34z/data=!4m5!3m4!1s0x89e0ae80c89bf9d7:0x95c40c490d1d5f53!8m2!3d40.9848784!4d-72.6151169
+[Kings]: https://www.google.com/maps/place/Brooklyn,+NY/@41.2680459,-74.479275,8.3z/data=!4m5!3m4!1s0x89c24416947c2109:0x82765c7404007886!8m2!3d40.6781784!4d-73.9441579
+[Bronx]: https://www.google.com/maps/place/Bronx+County,+NY/@41.086677,-74.4074573,9.18z/data=!4m5!3m4!1s0x89c2e08bea1f4105:0xc9a6488c48b356c2!8m2!3d40.8370495!4d-73.8654295
+[Onondage]: https://www.google.com/maps/place/Onondaga+County,+NY/@42.90109,-76.8355984,7.26z/data=!4m5!3m4!1s0x89d9f4fe45a3ff35:0xb24aa2acf278b259!8m2!3d43.026819!4d-76.1783739
+[New York]: https://www.google.com/maps/place/New+York+County,+NY/@41.0652269,-74.1067182,9.03z/data=!4m5!3m4!1s0x89c2ed64fc3b013b:0xd813d2023b2ead16!8m2!3d40.7830603!4d-73.9712488
+[Seneca]: https://www.google.com/maps/place/Seneca+County,+NY/@42.7982513,-76.7517118,7.81z/data=!4m5!3m4!1s0x89d0bfcbf409766f:0xcd3d73bd901df123!8m2!3d42.7651891!4d-76.8720961
+[Westchester]: https://www.google.com/maps/place/Westchester+County,+NY/@41.7182918,-74.1540104,7.53z/data=!4m5!3m4!1s0x89c2c96a9d6b59af:0x370ed86222bddb89!8m2!3d41.1220194!4d-73.7948516
+[Hamilton]: https://www.google.com/maps/place/Hamilton+County,+NY/@43.0152304,-75.6520657,7.3z/data=!4m5!3m4!1s0x89df17cb6a970eab:0x2d236705dcc7c72f!8m2!3d43.4764406!4d-74.4056612
+[Essex]: https://www.google.com/maps/place/Essex+County,+NY/@43.2160659,-75.541765,7.54z/data=!4m5!3m4!1s0x4ccb1bc35229d23d:0xc18b42628062b901!8m2!3d44.0107408!4d-73.9507728
+[Franklin]: https://www.google.com/maps/place/Franklin+County,+NY/@43.2170037,-75.6189279,7.3z/data=!4m5!3m4!1s0x4ccb9fcb580c5add:0xe9db12a83af25dc!8m2!3d44.5926135!4d-74.3387798
+[Delaware]: https://www.google.com/maps/place/Delaware+County,+NY/@42.6883681,-75.8229518,7.81z/data=!4m5!3m4!1s0x89d091e7bf3fa51d:0x34ca4327527d2f24!8m2!3d42.2452081!4d-74.8741045
+[Schuyler]: https://www.google.com/maps/place/Schuyler+County,+NY/@43.0451611,-76.1927426,7.7z/data=!4m5!3m4!1s0x89d0f48aae81dd3d:0x725a69d482a9961a!8m2!3d42.3796425!4d-76.8720961
+[Orleans]: https://www.google.com/maps/place/Orleans+County,+NY/@43.055253,-75.5561791,7.38z/data=!4m5!3m4!1s0x89d41105a0f5cb23:0xc14fea72db78047a!8m2!3d43.4088624!4d-78.2020387
+[Yates]: https://www.google.com/maps/place/Yates+County,+NY/@42.7865978,-76.3035679,7.58z/data=!4m5!3m4!1s0x89d0e330cc172577:0x454614735e61d96d!8m2!3d42.6430846!4d-77.1485163
+[Schoharie]: https://www.google.com/maps/place/Schoharie+County,+NY/@42.2766827,-75.8642091,7.49z/data=!4m5!3m4!1s0x89dc25aa468f12fd:0xeef5bee83b61bcab!8m2!3d42.6550335!4d-74.4994517
+[Lewis]: https://www.google.com/maps/place/Lewis+County,+NY/@42.7211827,-76.18459,7.29z/data=!4m5!3m4!1s0x89d89653cc41534f:0x9741799e3c907a52!8m2!3d43.840112!4d-75.4344727
+[Herkimer]: https://www.google.com/maps/place/Herkimer+County,+NY/@42.91111,-75.4780511,7.04z/data=!4m5!3m4!1s0x89dec0fb88b3e3c9:0x36203db10f9ca406!8m2!3d43.1630587!4d-74.8741045
+[Albany]: https://www.google.com/maps/place/Albany+County,+NY/@42.897208,-75.3784314,7.21z/data=!4m5!3m4!1s0x89ddd8f11dea7029:0xcf32da77b36ecae7!8m2!3d42.5756797!4d-73.9359821
+[Erie]: https://www.google.com/maps/place/Erie+County,+NY/@42.477335,-75.9704559,7.47z/data=!4m5!3m4!1s0x89d31017fc6f1945:0x101fe9efc8b36a3f!8m2!3d42.9023958!4d-78.8661589
+[Rensselaer]: https://www.google.com/maps/place/Rensselaer+County,+NY/@42.1938006,-75.5772034,7.62z/data=!4m5!3m4!1s0x89de1a0571717da7:0x1849fbb1e427ea5d!8m2!3d42.673664!4d-73.5594128
+[Wyoming]: https://www.google.com/maps/place/Wyoming+County,+NY/@42.443868,-75.5116291,7.2z/data=!4m5!3m4!1s0x89d3c8ce6d074d91:0x5e1b9256092b4e73!8m2!3d42.642052!4d-78.2020387
+[Fulton]: https://www.google.com/maps/place/Fulton+County,+NY/@42.5324493,-74.92572,7.28z/data=!4m5!3m4!1s0x89de57892d26f873:0xdc562c066c8dab13!8m2!3d43.1118737!4d-74.4994517
+[Chemung]: https://www.google.com/maps/place/Chemung+County,+NY/@42.5886312,-75.1735564,7.03z/data=!4m5!3m4!1s0x89d06bccc5aef437:0x639d70df798692d7!8m2!3d42.1362071!4d-76.7798172
+[Greene]: https://www.google.com/maps/place/Greene+County,+NY/@42.5825677,-74.8917018,7.15z/data=!4m5!3m4!1s0x89ddabf078d1cce3:0x3b5656f2903d9533!8m2!3d42.2957321!4d-74.123996
+
