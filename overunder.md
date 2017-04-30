@@ -70,3 +70,12 @@ A county is to be considered overpopulated if the ratio of persons per market is
 | Schoharie | 5            | 32749      | 6549.8            | 125.2                |
 | Lewis     | 4            | 27087      | 6771.8            | 322.5                |
 | Herkimer  | 9            | 64519      | 7168.8            | 162                  |
+
+## Essex County
+Though the table is ranked in order of 'People per Market', 'Sqr Miles per Market' plays a vary significant role. Thus making Essex positioned at number 1. Hamilton County, being located in a much more rural area, may not only need 2 farmers markets, and leaving the county with only 1 may not be the greatest of idea. Therfor if you are a market in Essex, there may be better opprotunity else where.
+
+## Franklin County
+Coming in a close second is Franklin County. Although the 'People per Market' is slightly larger,the 'Sqr Mile per Market' makes up for the different. This county has one more market than Essex County, with much less sqaure milage. 
+
+## Yates County
+Placed 7th on the list, Yates County, with only 4 markets is a county worth mentioning for one lucky market. With this county being very small, I only recommend one market with he least success to relocate. The 'People per Market' has only a 400 person difference from 7th to 4th nut alomst a 100 square milage difference. 
