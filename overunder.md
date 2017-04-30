@@ -60,16 +60,28 @@ A county is to be considered overpopulated if the ratio of persons per market is
 
 | County    | # of Markets | Population | People per Market | Sqr Miles per Market |
 |:---------:|:------------:|:----------:|:-----------------:|:--------------------:|
-| Hamilton  | 2            | 4836       | 2418              | 904                  |
-| Essex     | 8            | 39370      | 4921.3            | 239.5                |
-| Franklin  | 9            | 51599      | 5733.3            | 188.4                |
-| Delaware  | 8            | 47980      | 5997.5            | 183.4                |
-| Schuyler  | 3            | 18343      | 6114.3            | 114                  |
-| Orleans   | 7            | 42883      | 6126.1            | 116.7                |
-| Yates     | 4            | 25348      | 6337              | 94                   |
-| Schoharie | 5            | 32749      | 6549.8            | 125.2                |
-| Lewis     | 4            | 27087      | 6771.8            | 322.5                |
-| Herkimer  | 9            | 64519      | 7168.8            | 162                  |
+|[Hamilton] | 2            | 4836       | 2418              | 904                  |
+| [Essex]   | 8            | 39370      | 4921.3            | 239.5                |
+|[Franklin] | 9            | 51599      | 5733.3            | 188.4                |
+|[Delaware] | 8            | 47980      | 5997.5            | 183.4                |
+|[Schuyler] | 3            | 18343      | 6114.3            | 114                  |
+|[Orleans]  | 7            | 42883      | 6126.1            | 116.7                |
+|[Yates]    | 4            | 25348      | 6337              | 94                   |
+|[Schoharie]| 5            | 32749      | 6549.8            | 125.2                |
+|[Lewis]    | 4            | 27087      | 6771.8            | 322.5                |
+|[Herkimer] | 9            | 64519      | 7168.8            | 162                  |
+
+[Hamilton]: https://www.google.com/maps/place/Hamilton+County,+NY/@43.0152304,-75.6520657,7.3z/data=!4m5!3m4!1s0x89df17cb6a970eab:0x2d236705dcc7c72f!8m2!3d43.4764406!4d-74.4056612
+[Essex]: https://www.google.com/maps/place/Essex+County,+NY/@43.2160659,-75.541765,7.54z/data=!4m5!3m4!1s0x4ccb1bc35229d23d:0xc18b42628062b901!8m2!3d44.0107408!4d-73.9507728
+[Franklin]: https://www.google.com/maps/place/Franklin+County,+NY/@43.2170037,-75.6189279,7.3z/data=!4m5!3m4!1s0x4ccb9fcb580c5add:0xe9db12a83af25dc!8m2!3d44.5926135!4d-74.3387798
+[Delaware]: https://www.google.com/maps/place/Delaware+County,+NY/@42.6883681,-75.8229518,7.81z/data=!4m5!3m4!1s0x89d091e7bf3fa51d:0x34ca4327527d2f24!8m2!3d42.2452081!4d-74.8741045
+[Schuyler]: https://www.google.com/maps/place/Schuyler+County,+NY/@43.0451611,-76.1927426,7.7z/data=!4m5!3m4!1s0x89d0f48aae81dd3d:0x725a69d482a9961a!8m2!3d42.3796425!4d-76.8720961
+[Orleans]: https://www.google.com/maps/place/Orleans+County,+NY/@43.055253,-75.5561791,7.38z/data=!4m5!3m4!1s0x89d41105a0f5cb23:0xc14fea72db78047a!8m2!3d43.4088624!4d-78.2020387
+[Yates]: https://www.google.com/maps/place/Yates+County,+NY/@42.7865978,-76.3035679,7.58z/data=!4m5!3m4!1s0x89d0e330cc172577:0x454614735e61d96d!8m2!3d42.6430846!4d-77.1485163
+[Schoharie]: https://www.google.com/maps/place/Schoharie+County,+NY/@42.2766827,-75.8642091,7.49z/data=!4m5!3m4!1s0x89dc25aa468f12fd:0xeef5bee83b61bcab!8m2!3d42.6550335!4d-74.4994517
+[Lewis]: https://www.google.com/maps/place/Lewis+County,+NY/@42.7211827,-76.18459,7.29z/data=!4m5!3m4!1s0x89d89653cc41534f:0x9741799e3c907a52!8m2!3d43.840112!4d-75.4344727
+[Herkimer]: https://www.google.com/maps/place/Herkimer+County,+NY/@42.91111,-75.4780511,7.04z/data=!4m5!3m4!1s0x89dec0fb88b3e3c9:0x36203db10f9ca406!8m2!3d43.1630587!4d-74.8741045
+
 
 ## Essex County
 Though the table is ranked in order of 'People per Market', 'Sqr Miles per Market' plays a vary significant role. Thus making Essex positioned at number 1. Hamilton County, being located in a much more rural area, may not only need 2 farmers markets, and leaving the county with only 1 may not be the greatest of idea. Therfor if you are a market in Essex, there may be better opprotunity else where.
