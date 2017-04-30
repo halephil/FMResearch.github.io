@@ -11,8 +11,24 @@ Topics of research on New York Farmers Markets:
   - Locate over and under populated counties that have too many or too little farmers markets. 
   - Compare local retail food stores to the where to farmers markers are located.
 
+Tools:
+  - [GitHub], version control
+  - [MySQL], open source database
+  - [GitPages], display research anaylsis publicly
+  - [Beautiful Jeykll], Jeykll webpage layout for GitPage
+  - [Python], communicate with MySQL and create visualization
+  - [GMPlot], plotting data on Google Maps using Python
+  
 Contributors: 
   - [Joshua Stuve](https://github.com/JStuve)
   - [Shashi Sastry](https://jstuve.github.io/FMResearch.github.io/2017-04-30-research-proposal/)
   - [Halen Phillips](https://jstuve.github.io/FMResearch.github.io/2017-04-30-research-proposal/)
   
+[comment]: <> (Links)
+[GitHub]: https://github.com/
+[GitPages]: https://pages.github.com/
+[Beautiful Jeykll]: https://github.com/daattali/beautiful-jekyll
+[MySQL]: https://www.mysql.com/
+[Python]: https://www.python.org/downloads/
+[GMPlot]: https://github.com/vgm64/gmplot
+
