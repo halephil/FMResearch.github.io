@@ -13,6 +13,6 @@ Topics of research on New York Farmers Markets:
 
 Contributors: 
   - [Joshua Stuve](https://github.com/JStuve)
-  - [Shashi Sastry] ("")
-  - [Halen Phillips] ("")
+  - [Shashi Sastry] (" ")
+  - [Halen Phillips] (" ")
   
